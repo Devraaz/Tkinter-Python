@@ -2,7 +2,7 @@ import tkinter as tk
 
 
 root = tk.Tk()
-root.title("Webokraft Solution")
+root.title("Driving Elegibility")
 root.geometry("596x420")
 root.minsize(420, 220)
 
